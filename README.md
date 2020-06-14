@@ -1,6 +1,9 @@
 <h1><center>Document, Ledger and Search Databases</center></h1>
 
-<Center>https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/Database-Mostov_v4.1_twitter-_-facebook.png?1546896970</Center>
+<p align="center">
+  <img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/Database-Mostov_v4.1_twitter-_-facebook.png?1546896970?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 
 ![Databases](http://www.blackboxpartners.com/wp-content/uploads/database-word-cloud.jpg#center)
