@@ -18,3 +18,6 @@ XML & YAML or binary formats such as BSON so if we have knowledge of this type o
 > Here is an example of what the format would look like:
 
 ![ejemplo1](https://webassets.mongodb.com/_com_assets/cms/Code%20Snippet%20545%20x%20330@4x-zgzlrug0va.png)
+
+
+This type is one of the most popular alternatives that can be used as rational tabular databases and according to Wikipedia they constitute one of the main subcategories within the so-called NoSQL databases.
