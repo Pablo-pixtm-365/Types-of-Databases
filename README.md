@@ -1,5 +1,6 @@
 <h1><center>Document, Ledger and Search Databases</center></h1>
 
+<center>https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/Database-Mostov_v4.1_twitter-_-facebook.png?1546896970</center>
 ![Databases](http://www.blackboxpartners.com/wp-content/uploads/database-word-cloud.jpg#center)
 
 ## Preface
