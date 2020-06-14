@@ -32,13 +32,6 @@ Here some examples of systems of Document Databases
 
 ![imagen3](https://www.practicalecommerce.com/wp-content/uploads/2016/07/070116-nosql-db-570x276.png)
 
-
-
-
-
-
-
-
 ## Ledger Database.
 
 "Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview"
@@ -56,6 +49,9 @@ It's the ability to see the changes to records and data over time.
 * It is cryptographically verified.
 This mean that the records or data are hashed. In a simple way the long string of data that is the record is paired down to a much smaller string of characters that is unique. 
 
+How does work it?
+Let's suppose that we create an order:
+![ex1](https://ivan.mw/images/ledger-1.jpg)
 
 ## Flexible Scheme:
 
