@@ -6,8 +6,6 @@
 
 
 
-![Databases](http://www.blackboxpartners.com/wp-content/uploads/database-word-cloud.jpg#center)
-
 ## Preface
 We recently had a video conference with a friend of our professor Juan vazquez named Paco Ocampo, Paco is a person who knows about managing the cloud for big data and this time he told us about the different types of databases that we can find in the google cloud.
 
