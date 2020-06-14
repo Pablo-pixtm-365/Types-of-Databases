@@ -30,7 +30,7 @@ Some characteristics that we will talk about later are the following:
 
 Here some examples of systems of Document Databases
 
-
+![imagen3](https://www.practicalecommerce.com/wp-content/uploads/2016/07/070116-nosql-db-570x276.png)
 
 
 
