@@ -66,7 +66,6 @@ The key insight is that ledger databases remember the past. New information does
 
 The ledger database contains the log and tables which are a view into the log’s data. In this case, I have an Orders table which shows the latest status of each order. That same log data is fed into an email system, which emails customers updates on their orders, a billing system, which filters through log data and tracks each CREATED order, and a data warehouse, which is used to run analytics on the data.
 
-
 ## Flexible Scheme:
 
 
@@ -76,3 +75,12 @@ The ledger database contains the log and tables which are a view into the log’
 |   | a |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
+
+
+
+**References:**
+* https://ivan.mw/2019-11-24/what-is-a-ledger-database
+* https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139
+* https://medium.com/a-technologists-pov/do-i-need-a-ledger-database-what-is-it-6f3b7261238
+
+
