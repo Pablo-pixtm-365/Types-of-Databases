@@ -33,10 +33,13 @@ Here some examples of systems of Document Databases
 ![imagen3](https://www.practicalecommerce.com/wp-content/uploads/2016/07/070116-nosql-db-570x276.png)
 
 ## Ledger Database.
+### Why “ledger”?
 
-"Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview"
+The term ledger represents the way we used to record information before computers. Before computers, we recorded information in books, sometimes called ledgers, where data was only appended and you could view the past. In the early years of computers, hardware was expensive. Thus we built systems that update in place and use the most efficient amount of memory. Now that we’re in the age of cheap, commodity hardware, we can revert to recording information in a more intuitive and useful way.
 
-"A non ledger database is table-centric. A ledger database is log-centric. The log is the database."
+* "Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview" *
+
+* "A non ledger database is table-centric. A ledger database is log-centric. The log is the database." *
 
 To begin with:
 * it is not a NoSQL database (usually)
@@ -62,6 +65,7 @@ The key insight is that ledger databases remember the past. New information does
 ![ex4](https://ivan.mw/images/ledger-4.jpg)
 
 The ledger database contains the log and tables which are a view into the log’s data. In this case, I have an Orders table which shows the latest status of each order. That same log data is fed into an email system, which emails customers updates on their orders, a billing system, which filters through log data and tracks each CREATED order, and a data warehouse, which is used to run analytics on the data.
+
 
 ## Flexible Scheme:
 
