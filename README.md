@@ -50,3 +50,6 @@ To begin with:
 This is different from the usually NoSQL database we're getting, it's different form Microsoft SQL Server, Oracle, MYSQL servers.
 Data is stored as a document without and natural relationships to other documents, but in this case this works as a relational database. 
 
+## Flexible Scheme:
+
+
