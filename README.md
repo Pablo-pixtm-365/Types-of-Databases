@@ -37,9 +37,9 @@ Here some examples of systems of Document Databases
 
 The term ledger represents the way we used to record information before computers. Before computers, we recorded information in books, sometimes called ledgers, where data was only appended and you could view the past. In the early years of computers, hardware was expensive. Thus we built systems that update in place and use the most efficient amount of memory. Now that we’re in the age of cheap, commodity hardware, we can revert to recording information in a more intuitive and useful way.
 
-* "Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview" *
+*"Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview"*
 
-* "A non ledger database is table-centric. A ledger database is log-centric. The log is the database." *
+*"A non ledger database is table-centric. A ledger database is log-centric. The log is the database."*
 
 To begin with:
 * it is not a NoSQL database (usually)
