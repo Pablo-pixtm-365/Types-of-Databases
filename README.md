@@ -23,10 +23,12 @@ XML & YAML or binary formats such as BSON so if we have knowledge of this type o
 This type is one of the most popular alternatives that can be used as rational tabular databases and according to Wikipedia they constitute one of the main subcategories within the so-called NoSQL databases.
 
 Some characteristics that we will talk about later are the following:
+
 > Natural and flexible 
+
 > They promise higher developer productivity, and faster evolution with application needs.
 
-~ Here some examples of systems of Document Databases
+Here some examples of systems of Document Databases
 
 
 
