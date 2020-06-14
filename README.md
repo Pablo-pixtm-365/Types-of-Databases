@@ -101,6 +101,8 @@ The key insight is that ledger databases remember the past. New information does
 The ledger database contains the log and tables which are a view into the log’s data. In this case, I have an Orders table which shows the latest status of each order. That same log data is fed into an email system, which emails customers updates on their orders, a billing system, which filters through log data and tracks each CREATED order, and a data warehouse, which is used to run analytics on the data.
 
 # Search Databases 
+![imagen6](https://discoversdkcdn.azureedge.net/postscontent/elastic_solr.jpg)
+
 Search engines are NoSQL database management systems dedicated to searching for data content. In addition to general optimization for this type of application, specialization typically consists of offering the following features:
 
 * Support for complex search expressions
