@@ -100,7 +100,30 @@ The key insight is that ledger databases remember the past. New information does
 
 The ledger database contains the log and tables which are a view into the log’s data. In this case, I have an Orders table which shows the latest status of each order. That same log data is fed into an email system, which emails customers updates on their orders, a billing system, which filters through log data and tracks each CREATED order, and a data warehouse, which is used to run analytics on the data.
 
-## Flexible Scheme:
+# Search Databases 
+Search engines are NoSQL database management systems dedicated to searching for data content. In addition to general optimization for this type of application, specialization typically consists of offering the following features:
+
+* Support for complex search expressions
+* Full-text search
+* Stemming (reducing inflected words to their root)
+* Sorting and grouping search results
+* Geospatial search
+* Distributed search for high scalability
+
+# Important examples
+* Elasticsearch
+* Splunk
+* Solr
+* MarkLogic
+* Sphinx
+
+
+The databases use different search engines identified by the companies that provide access to them.They are simple and intuitive search interfaces, aimed at all types of users, which usually have two search modes: simple and advanced.
+
+Examples of the most used search engines:
+> Ebsco
+> Proquest 
+> Ovid.
 
 
 ## Matrix 
