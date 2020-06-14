@@ -100,12 +100,23 @@ The ledger database contains the log and tables which are a view into the log’
 
 
 ## Matrix 
-| a | a | a | a | a |
-|---|---|---|---|---|
-|   | a |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
+| Criteria             |   |   |   |   |   |
+|----------------------|---|---|---|---|---|
+| Best used            |   |   |   |   |   |
+| Usage example        |   |   |   |   |   |
+| Known Shortcomings   |   |   |   |   |   |
+| Main focus           |   |   |   |   |   |
+| License              |   |   |   |   |   |
+| Pricing              |   |   |   |   |   |
+| Projects using it    |   |   |   |   |   |
+| Latest version       |   |   |   |   |   |
+| Data Presentation    |   |   |   |   |   |
+| Development language |   |   |   |   |   |
+| Platforms            |   |   |   |   |   |
+| Website              |   |   |   |   |   |
+|                      |   |   |   |   |   |
+|                      |   |   |   |   |   |
+|                      |   |   |   |   |   |
 
 
 **References:**
