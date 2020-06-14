@@ -17,4 +17,4 @@ XML & YAML or binary formats such as BSON so if we have knowledge of this type o
 
 > Here is an example of what the format would look like:
 
-![ejemplo1](https://webassets.mongodb.com/_com_assets/cms/CodeSnippet545x330@4x-zgzlrug0va.png)
+![ejemplo1](https://webassets.mongodb.com/_com_assets/cms/Code%20Snippet%20545%20x%20330@4x-zgzlrug0va.png)
