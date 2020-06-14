@@ -33,13 +33,20 @@ Here some examples of systems of Document Databases
 ![imagen3](https://www.practicalecommerce.com/wp-content/uploads/2016/07/070116-nosql-db-570x276.png)
 
 
-# Different between relational databases
 
-### Intuitive data model:
-> The documents are assigned to the objects in the code, this makes it easier to work with them.
 
-> As shown in the first image, the structure of this database is different from a DB SQL, therefore we will not need to execute "joins" that consume a lot of resources.
 
-> We can put the data together or as pipes, this allows us to write less code and gives us more performance for queries.
 
+
+
+## Ledger Database.
+
+"Ledger Database — A NoSQL database that provides an immutable, transparent, and cryptographically verifiable transaction log •owned by a central authority. — Amazon’s QLDB Overview"
+
+"A non ledger database is table-centric. A ledger database is log-centric. The log is the database."
+
+To begin with:
+* it is not a NoSQL database (usually)
+This is different from the usually NoSQL database we're getting, it's different form Microsoft SQL Server, Oracle, MYSQL servers.
+Data is stored as a document without and natural relationships to other documents, but in this case this works as a relational database. 
 
