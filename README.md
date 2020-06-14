@@ -61,7 +61,7 @@ Here some examples of systems of Document Databases
 
 > According to the document DB mongo dB page, native fragmentation provides an elastic and transparent horizontal scale to the application to accommodate the growth of its workload, along with geographic data distribution for data sovereignty.
 
-# Graphical difference between a relational database and one based on documents
+## Graphical difference between a relational database and one based on documents
 
 ![imagen4](https://webassets.mongodb.com/_com_assets/cms/Relational_vs_DocumentDB-imgngssl17.png)
 
@@ -122,7 +122,9 @@ The databases use different search engines identified by the companies that prov
 
 Examples of the most used search engines:
 > Ebsco
-> Proquest 
+
+> Proquest
+
 > Ovid.
 
 
@@ -150,5 +152,7 @@ Examples of the most used search engines:
 * https://ivan.mw/2019-11-24/what-is-a-ledger-database
 * https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139
 * https://medium.com/a-technologists-pov/do-i-need-a-ledger-database-what-is-it-6f3b7261238
+* https://platzi.com/tutoriales/1566-bd/2282-que-tipos-de-base-de-datos-existes-actualmente/
+* http://rcientificas.uninorte.edu.co/index.php/salud/article/viewArticle/3822/5744
 
 
