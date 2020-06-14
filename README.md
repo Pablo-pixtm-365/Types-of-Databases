@@ -49,6 +49,13 @@ To begin with:
 * it is not a NoSQL database (usually)
 This is different from the usually NoSQL database we're getting, it's different form Microsoft SQL Server, Oracle, MYSQL servers.
 Data is stored as a document without and natural relationships to other documents, but in this case this works as a relational database. 
+* It is immutable.
+In ledger databases, these can never been changed. So no matter what changes happen you will never overwrite the existing data. 
+* It is trasnparent.
+It's the ability to see the changes to records and data over time. 
+* It is cryptographically verified.
+This mean that the records or data are hashed. In a simple way the long string of data that is the record is paired down to a much smaller string of characters that is unique. 
+
 
 ## Flexible Scheme:
 
