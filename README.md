@@ -32,6 +32,36 @@ Here some examples of systems of Document Databases
 
 ![imagen3](https://www.practicalecommerce.com/wp-content/uploads/2016/07/070116-nosql-db-570x276.png)
 
+
+# Different between relational databases
+
+## Intuitive data model:
+> The documents are assigned to the objects in the code, this makes it easier to work with them.
+
+> As shown in the first image, the structure of this database is different from a DB SQL, therefore we will not need to execute "joins" that consume a lot of resources.
+
+> We can put the data together or as pipes, this allows us to write less code and gives us more performance for queries.
+
+## Flexible Scheme:
+> The documents are dynamic, this means that it is not necessary to define them previously in the DB.
+
+> The fields of the documents can vary, and the structures can be modified at the moment we want, allowing us to avoid disruptive schema migrations.
+
+## Powerful:
+> Ad hoc queries, indexing, and real-time aggregations provide powerful ways to access, transform, and analyze your data.
+
+> With the help of ACID transactions, the same guarantees are maintained as a DB SQL, that is, we can manipulate data from a single document or multiple documents that live in multiple fragments.
+
+## The Distribution:
+> These databases are systems distributed at their core, so each document is independent of another, this provides us with an ease when it comes to distributing them on various servers.
+
+> According to the document DB mongo dB page, native fragmentation provides an elastic and transparent horizontal scale to the application to accommodate the growth of its workload, along with geographic data distribution for data sovereignty.
+
+# Graphical difference between a relational database and one based on documents
+
+![imagen4](https://webassets.mongodb.com/_com_assets/cms/Relational_vs_DocumentDB-imgngssl17.png)
+
+
 ## Ledger Database.
 ### Why “ledger”?
 
