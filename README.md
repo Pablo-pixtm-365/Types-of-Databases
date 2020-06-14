@@ -10,4 +10,10 @@ Although databases are essential today for any public and private company, why? 
 But if you want to know about databases you can search for pages, documents, books among other types of resources, that is why in this document we will focus on the different types of databases that currently exist, we hope you like it .
 
 
-## In Process...
+## Document databases
+
+This type of database is built similar to a JSON file,
+XML & YAML or binary formats such as BSON so if we have knowledge of this type of document either because we program in JavaScript or use them to build data frames in python with the help of pandas.
+
+> Here is an example of what the format would look like:
+![ejemplo1](https://webassets.mongodb.com/_com_assets/cms/Code Snippet 545 x 330@4x-zgzlrug0va.png)
