@@ -131,8 +131,8 @@ Examples of the most used search engines:
 
 
 ## Matrix 
-| Criteria             | Document |   |   |   |   |
-|----------------------|-       --|---|---|---|---|
+| Criteria             |   |   |   |   |   |
+|----------------------|---|---|---|---|---|
 | Best used            |   |   |   |   |   |
 | Usage example        |   |   |   |   |   |
 | Known Shortcomings   |   |   |   |   |   |
