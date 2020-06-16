@@ -156,5 +156,10 @@ Examples of the most used search engines:
 * https://medium.com/a-technologists-pov/do-i-need-a-ledger-database-what-is-it-6f3b7261238
 * https://platzi.com/tutoriales/1566-bd/2282-que-tipos-de-base-de-datos-existes-actualmente/
 * http://rcientificas.uninorte.edu.co/index.php/salud/article/viewArticle/3822/5744
+* https://aws.amazon.com/es/qldb/faqs/
+* https://docs.aws.amazon.com/qldb/latest/developerguide/document-history.html
+* https://www.mongodb.com/document-databases
+
+
 
 
