@@ -159,7 +159,7 @@ Examples of the most used search engines:
 * https://aws.amazon.com/es/qldb/faqs/
 * https://docs.aws.amazon.com/qldb/latest/developerguide/document-history.html
 * https://www.mongodb.com/document-databases
-
+* https://en.wikipedia.org/wiki/Document-oriented_database
 
 
 
