@@ -1,6 +1,6 @@
 <h1><center>Document, Ledger and Search Databases</center></h1>
 
-##### team:
+##### Contributors:
 * Jorge Aque
 * Jesus Catzin
 * Pablo Duarte
